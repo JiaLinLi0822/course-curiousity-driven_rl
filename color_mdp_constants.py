@@ -1,0 +1,8 @@
+from env import COLOR_ACTION_NAMES, ID_TO_RGB_COLOR, RGB_COLOR_NAMES
+
+
+COLOR_STATE_IDS = list(range(8))
+COLOR_STATE_LABELS = [RGB_COLOR_NAMES[ID_TO_RGB_COLOR[state_id]] for state_id in COLOR_STATE_IDS]
+ACTION_IDS = list(COLOR_ACTION_NAMES.keys())
+ACTION_LABELS = [COLOR_ACTION_NAMES[action_id] for action_id in ACTION_IDS]
+COLOR_TUPLES = [ID_TO_RGB_COLOR[state_id] for state_id in COLOR_STATE_IDS]
