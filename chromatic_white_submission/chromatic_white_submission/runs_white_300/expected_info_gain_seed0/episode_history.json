@@ -1,0 +1,4490 @@
+[
+  {
+    "episode": 1,
+    "global_step": 300,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 2,
+    "global_step": 600,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 3,
+    "global_step": 900,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 4,
+    "global_step": 1200,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 5,
+    "global_step": 1500,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 6,
+    "global_step": 1800,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 7,
+    "global_step": 2100,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 8,
+    "global_step": 2400,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 9,
+    "global_step": 2700,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 10,
+    "global_step": 3000,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 11,
+    "global_step": 3300,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 12,
+    "global_step": 3600,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 13,
+    "global_step": 3900,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 14,
+    "global_step": 4200,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 15,
+    "global_step": 4500,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 16,
+    "global_step": 4554,
+    "length": 54,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 10
+  },
+  {
+    "episode": 17,
+    "global_step": 4854,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 18,
+    "global_step": 5154,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 19,
+    "global_step": 5454,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 20,
+    "global_step": 5754,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 21,
+    "global_step": 5905,
+    "length": 151,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 22
+  },
+  {
+    "episode": 22,
+    "global_step": 6205,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 23,
+    "global_step": 6378,
+    "length": 173,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 31
+  },
+  {
+    "episode": 24,
+    "global_step": 6678,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 25,
+    "global_step": 6978,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 26,
+    "global_step": 7278,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 27,
+    "global_step": 7578,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 28,
+    "global_step": 7878,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 29,
+    "global_step": 7944,
+    "length": 66,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 11
+  },
+  {
+    "episode": 30,
+    "global_step": 8244,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 31,
+    "global_step": 8544,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 32,
+    "global_step": 8844,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 33,
+    "global_step": 8895,
+    "length": 51,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 6
+  },
+  {
+    "episode": 34,
+    "global_step": 9195,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 35,
+    "global_step": 9495,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 36
+  },
+  {
+    "episode": 36,
+    "global_step": 9795,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 37,
+    "global_step": 10095,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 38,
+    "global_step": 10395,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 39,
+    "global_step": 10695,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 40,
+    "global_step": 10995,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 66
+  },
+  {
+    "episode": 41,
+    "global_step": 11295,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 42,
+    "global_step": 11595,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 43,
+    "global_step": 11895,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 44,
+    "global_step": 12195,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 45,
+    "global_step": 12495,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 46,
+    "global_step": 12609,
+    "length": 114,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 15
+  },
+  {
+    "episode": 47,
+    "global_step": 12909,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 48,
+    "global_step": 13009,
+    "length": 100,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 15
+  },
+  {
+    "episode": 49,
+    "global_step": 13182,
+    "length": 173,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 28
+  },
+  {
+    "episode": 50,
+    "global_step": 13334,
+    "length": 152,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 29
+  },
+  {
+    "episode": 51,
+    "global_step": 13634,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 52,
+    "global_step": 13934,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 53,
+    "global_step": 14028,
+    "length": 94,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 16
+  },
+  {
+    "episode": 54,
+    "global_step": 14328,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 55,
+    "global_step": 14628,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 56,
+    "global_step": 14928,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 57,
+    "global_step": 15228,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 58,
+    "global_step": 15467,
+    "length": 239,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 45
+  },
+  {
+    "episode": 59,
+    "global_step": 15767,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 60,
+    "global_step": 16067,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 61,
+    "global_step": 16244,
+    "length": 177,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 33
+  },
+  {
+    "episode": 62,
+    "global_step": 16544,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 65
+  },
+  {
+    "episode": 63,
+    "global_step": 16723,
+    "length": 179,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 29
+  },
+  {
+    "episode": 64,
+    "global_step": 17023,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 34
+  },
+  {
+    "episode": 65,
+    "global_step": 17323,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 66,
+    "global_step": 17623,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 67,
+    "global_step": 17923,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 68,
+    "global_step": 18223,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 69,
+    "global_step": 18246,
+    "length": 23,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 2
+  },
+  {
+    "episode": 70,
+    "global_step": 18546,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 71,
+    "global_step": 18846,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 45
+  },
+  {
+    "episode": 72,
+    "global_step": 19146,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 73,
+    "global_step": 19186,
+    "length": 40,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 6
+  },
+  {
+    "episode": 74,
+    "global_step": 19486,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 75,
+    "global_step": 19786,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 76,
+    "global_step": 20086,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 68
+  },
+  {
+    "episode": 77,
+    "global_step": 20386,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 78,
+    "global_step": 20686,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 79,
+    "global_step": 20986,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 45
+  },
+  {
+    "episode": 80,
+    "global_step": 21032,
+    "length": 46,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 6
+  },
+  {
+    "episode": 81,
+    "global_step": 21332,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 82,
+    "global_step": 21632,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 83,
+    "global_step": 21932,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 43
+  },
+  {
+    "episode": 84,
+    "global_step": 22232,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 85,
+    "global_step": 22532,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 86,
+    "global_step": 22832,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 87,
+    "global_step": 23132,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 88,
+    "global_step": 23432,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 89,
+    "global_step": 23732,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 90,
+    "global_step": 23895,
+    "length": 163,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 31
+  },
+  {
+    "episode": 91,
+    "global_step": 24195,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 92,
+    "global_step": 24495,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 93,
+    "global_step": 24738,
+    "length": 243,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 45
+  },
+  {
+    "episode": 94,
+    "global_step": 25038,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 65
+  },
+  {
+    "episode": 95,
+    "global_step": 25338,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 96,
+    "global_step": 25638,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 97,
+    "global_step": 25938,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 98,
+    "global_step": 26238,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 99,
+    "global_step": 26310,
+    "length": 72,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 7
+  },
+  {
+    "episode": 100,
+    "global_step": 26610,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 101,
+    "global_step": 26910,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 102,
+    "global_step": 27210,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 103,
+    "global_step": 27510,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 104,
+    "global_step": 27810,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 105,
+    "global_step": 28110,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 106,
+    "global_step": 28410,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 107,
+    "global_step": 28710,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 108,
+    "global_step": 29010,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 109,
+    "global_step": 29310,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 110,
+    "global_step": 29610,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 41
+  },
+  {
+    "episode": 111,
+    "global_step": 29910,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 112,
+    "global_step": 29940,
+    "length": 30,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 2
+  },
+  {
+    "episode": 113,
+    "global_step": 30240,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 114,
+    "global_step": 30308,
+    "length": 68,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 7
+  },
+  {
+    "episode": 115,
+    "global_step": 30608,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 116,
+    "global_step": 30908,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 117,
+    "global_step": 31208,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 118,
+    "global_step": 31508,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 119,
+    "global_step": 31808,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 120,
+    "global_step": 32108,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 67
+  },
+  {
+    "episode": 121,
+    "global_step": 32408,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 122,
+    "global_step": 32708,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 35
+  },
+  {
+    "episode": 123,
+    "global_step": 33008,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 124,
+    "global_step": 33308,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 125,
+    "global_step": 33608,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 126,
+    "global_step": 33908,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 127,
+    "global_step": 34208,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 128,
+    "global_step": 34508,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 129,
+    "global_step": 34808,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 130,
+    "global_step": 35108,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 131,
+    "global_step": 35408,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 132,
+    "global_step": 35708,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 133,
+    "global_step": 36008,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 134,
+    "global_step": 36308,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 135,
+    "global_step": 36608,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 136,
+    "global_step": 36908,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 137,
+    "global_step": 37208,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 138,
+    "global_step": 37436,
+    "length": 228,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 38
+  },
+  {
+    "episode": 139,
+    "global_step": 37736,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 140,
+    "global_step": 38036,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 141,
+    "global_step": 38336,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 142,
+    "global_step": 38636,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 143,
+    "global_step": 38936,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 144,
+    "global_step": 39236,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 145,
+    "global_step": 39536,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 146,
+    "global_step": 39836,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 147,
+    "global_step": 39959,
+    "length": 123,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 23
+  },
+  {
+    "episode": 148,
+    "global_step": 40259,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 149,
+    "global_step": 40559,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 150,
+    "global_step": 40859,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 151,
+    "global_step": 40956,
+    "length": 97,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 14
+  },
+  {
+    "episode": 152,
+    "global_step": 41256,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 153,
+    "global_step": 41556,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 45
+  },
+  {
+    "episode": 154,
+    "global_step": 41738,
+    "length": 182,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 17
+  },
+  {
+    "episode": 155,
+    "global_step": 42038,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 156,
+    "global_step": 42081,
+    "length": 43,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 8
+  },
+  {
+    "episode": 157,
+    "global_step": 42381,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 158,
+    "global_step": 42681,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 159,
+    "global_step": 42770,
+    "length": 89,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 7
+  },
+  {
+    "episode": 160,
+    "global_step": 43070,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 161,
+    "global_step": 43370,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 162,
+    "global_step": 43670,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 163,
+    "global_step": 43970,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 164,
+    "global_step": 44270,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 165,
+    "global_step": 44570,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 166,
+    "global_step": 44870,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 39
+  },
+  {
+    "episode": 167,
+    "global_step": 45170,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 168,
+    "global_step": 45470,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 169,
+    "global_step": 45770,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 170,
+    "global_step": 45837,
+    "length": 67,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 8
+  },
+  {
+    "episode": 171,
+    "global_step": 46137,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 172,
+    "global_step": 46437,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 37
+  },
+  {
+    "episode": 173,
+    "global_step": 46583,
+    "length": 146,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 29
+  },
+  {
+    "episode": 174,
+    "global_step": 46883,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 175,
+    "global_step": 47183,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 176,
+    "global_step": 47483,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 177,
+    "global_step": 47783,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 178,
+    "global_step": 48083,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 179,
+    "global_step": 48383,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 68
+  },
+  {
+    "episode": 180,
+    "global_step": 48507,
+    "length": 124,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 20
+  },
+  {
+    "episode": 181,
+    "global_step": 48807,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 182,
+    "global_step": 49107,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 183,
+    "global_step": 49407,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 184,
+    "global_step": 49449,
+    "length": 42,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 5
+  },
+  {
+    "episode": 185,
+    "global_step": 49749,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 186,
+    "global_step": 49912,
+    "length": 163,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 27
+  },
+  {
+    "episode": 187,
+    "global_step": 50212,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 188,
+    "global_step": 50487,
+    "length": 275,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 47
+  },
+  {
+    "episode": 189,
+    "global_step": 50594,
+    "length": 107,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 14
+  },
+  {
+    "episode": 190,
+    "global_step": 50894,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 191,
+    "global_step": 51194,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 192,
+    "global_step": 51494,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 32
+  },
+  {
+    "episode": 193,
+    "global_step": 51794,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 194,
+    "global_step": 52094,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 195,
+    "global_step": 52394,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 196,
+    "global_step": 52694,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 197,
+    "global_step": 52994,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 198,
+    "global_step": 53294,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 199,
+    "global_step": 53594,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 200,
+    "global_step": 53894,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 201,
+    "global_step": 54194,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 202,
+    "global_step": 54494,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 203,
+    "global_step": 54794,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 204,
+    "global_step": 55094,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 205,
+    "global_step": 55394,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 206,
+    "global_step": 55694,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 207,
+    "global_step": 55994,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 208,
+    "global_step": 56294,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 209,
+    "global_step": 56594,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 210,
+    "global_step": 56894,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 211,
+    "global_step": 57110,
+    "length": 216,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 40
+  },
+  {
+    "episode": 212,
+    "global_step": 57410,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 213,
+    "global_step": 57710,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 214,
+    "global_step": 58010,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 215,
+    "global_step": 58310,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 216,
+    "global_step": 58610,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 217,
+    "global_step": 58691,
+    "length": 81,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 12
+  },
+  {
+    "episode": 218,
+    "global_step": 58991,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 219,
+    "global_step": 59236,
+    "length": 245,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 44
+  },
+  {
+    "episode": 220,
+    "global_step": 59536,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 221,
+    "global_step": 59836,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 222,
+    "global_step": 59923,
+    "length": 87,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 13
+  },
+  {
+    "episode": 223,
+    "global_step": 59956,
+    "length": 33,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 5
+  },
+  {
+    "episode": 224,
+    "global_step": 60256,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 225,
+    "global_step": 60292,
+    "length": 36,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 7
+  },
+  {
+    "episode": 226,
+    "global_step": 60592,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 227,
+    "global_step": 60892,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 228,
+    "global_step": 61148,
+    "length": 256,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 43
+  },
+  {
+    "episode": 229,
+    "global_step": 61448,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 230,
+    "global_step": 61748,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 26
+  },
+  {
+    "episode": 231,
+    "global_step": 62048,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 232,
+    "global_step": 62348,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 233,
+    "global_step": 62648,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 234,
+    "global_step": 62948,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 39
+  },
+  {
+    "episode": 235,
+    "global_step": 63248,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 236,
+    "global_step": 63548,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 237,
+    "global_step": 63848,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 35
+  },
+  {
+    "episode": 238,
+    "global_step": 64148,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 239,
+    "global_step": 64448,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 240,
+    "global_step": 64748,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 241,
+    "global_step": 65048,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 41
+  },
+  {
+    "episode": 242,
+    "global_step": 65348,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 243,
+    "global_step": 65648,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 244,
+    "global_step": 65948,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 45
+  },
+  {
+    "episode": 245,
+    "global_step": 66248,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 246,
+    "global_step": 66548,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 247,
+    "global_step": 66848,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 248,
+    "global_step": 67026,
+    "length": 178,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 24
+  },
+  {
+    "episode": 249,
+    "global_step": 67261,
+    "length": 235,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 38
+  },
+  {
+    "episode": 250,
+    "global_step": 67561,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 251,
+    "global_step": 67861,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 252,
+    "global_step": 68161,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 253,
+    "global_step": 68461,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 254,
+    "global_step": 68761,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 255,
+    "global_step": 69061,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 32
+  },
+  {
+    "episode": 256,
+    "global_step": 69361,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 257,
+    "global_step": 69661,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 258,
+    "global_step": 69961,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 259,
+    "global_step": 70261,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 260,
+    "global_step": 70447,
+    "length": 186,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 39
+  },
+  {
+    "episode": 261,
+    "global_step": 70703,
+    "length": 256,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 52
+  },
+  {
+    "episode": 262,
+    "global_step": 71003,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 263,
+    "global_step": 71182,
+    "length": 179,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 34
+  },
+  {
+    "episode": 264,
+    "global_step": 71283,
+    "length": 101,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 16
+  },
+  {
+    "episode": 265,
+    "global_step": 71583,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 266,
+    "global_step": 71883,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 267,
+    "global_step": 71951,
+    "length": 68,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 9
+  },
+  {
+    "episode": 268,
+    "global_step": 72251,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 66
+  },
+  {
+    "episode": 269,
+    "global_step": 72551,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 270,
+    "global_step": 72656,
+    "length": 105,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 16
+  },
+  {
+    "episode": 271,
+    "global_step": 72956,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 272,
+    "global_step": 73256,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 273,
+    "global_step": 73556,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 274,
+    "global_step": 73737,
+    "length": 181,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 39
+  },
+  {
+    "episode": 275,
+    "global_step": 74037,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 276,
+    "global_step": 74337,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 277,
+    "global_step": 74637,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 278,
+    "global_step": 74937,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 279,
+    "global_step": 75237,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 280,
+    "global_step": 75536,
+    "length": 299,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 36
+  },
+  {
+    "episode": 281,
+    "global_step": 75836,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 282,
+    "global_step": 76004,
+    "length": 168,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 25
+  },
+  {
+    "episode": 283,
+    "global_step": 76304,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 42
+  },
+  {
+    "episode": 284,
+    "global_step": 76604,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 285,
+    "global_step": 76904,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 286,
+    "global_step": 76936,
+    "length": 32,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 7
+  },
+  {
+    "episode": 287,
+    "global_step": 77092,
+    "length": 156,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 25
+  },
+  {
+    "episode": 288,
+    "global_step": 77207,
+    "length": 115,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 24
+  },
+  {
+    "episode": 289,
+    "global_step": 77507,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 290,
+    "global_step": 77807,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 291,
+    "global_step": 78107,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 292,
+    "global_step": 78407,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 42
+  },
+  {
+    "episode": 293,
+    "global_step": 78707,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 294,
+    "global_step": 79007,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 295,
+    "global_step": 79307,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 296,
+    "global_step": 79607,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 297,
+    "global_step": 79907,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 298,
+    "global_step": 80207,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 299,
+    "global_step": 80507,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 300,
+    "global_step": 80807,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 301,
+    "global_step": 81107,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 302,
+    "global_step": 81407,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 303,
+    "global_step": 81707,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 304,
+    "global_step": 82007,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 305,
+    "global_step": 82307,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 43
+  },
+  {
+    "episode": 306,
+    "global_step": 82607,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 307,
+    "global_step": 82907,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 36
+  },
+  {
+    "episode": 308,
+    "global_step": 83207,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 309,
+    "global_step": 83507,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 34
+  },
+  {
+    "episode": 310,
+    "global_step": 83807,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 311,
+    "global_step": 84107,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 312,
+    "global_step": 84243,
+    "length": 136,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 23
+  },
+  {
+    "episode": 313,
+    "global_step": 84316,
+    "length": 73,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 8
+  },
+  {
+    "episode": 314,
+    "global_step": 84616,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 315,
+    "global_step": 84916,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 316,
+    "global_step": 85216,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 317,
+    "global_step": 85516,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 318,
+    "global_step": 85816,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 39
+  },
+  {
+    "episode": 319,
+    "global_step": 85941,
+    "length": 125,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 17
+  },
+  {
+    "episode": 320,
+    "global_step": 86241,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 45
+  },
+  {
+    "episode": 321,
+    "global_step": 86541,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 32
+  },
+  {
+    "episode": 322,
+    "global_step": 86732,
+    "length": 191,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 43
+  },
+  {
+    "episode": 323,
+    "global_step": 86793,
+    "length": 61,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 9
+  },
+  {
+    "episode": 324,
+    "global_step": 87054,
+    "length": 261,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 41
+  },
+  {
+    "episode": 325,
+    "global_step": 87354,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 326,
+    "global_step": 87654,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 327,
+    "global_step": 87954,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 328,
+    "global_step": 88254,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 329,
+    "global_step": 88554,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 330,
+    "global_step": 88854,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 69
+  },
+  {
+    "episode": 331,
+    "global_step": 89154,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 332,
+    "global_step": 89454,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 42
+  },
+  {
+    "episode": 333,
+    "global_step": 89754,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 334,
+    "global_step": 90054,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 42
+  },
+  {
+    "episode": 335,
+    "global_step": 90354,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 336,
+    "global_step": 90654,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 337,
+    "global_step": 90954,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 338,
+    "global_step": 91254,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 339,
+    "global_step": 91554,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 340,
+    "global_step": 91854,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 341,
+    "global_step": 92154,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 39
+  },
+  {
+    "episode": 342,
+    "global_step": 92454,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 65
+  },
+  {
+    "episode": 343,
+    "global_step": 92754,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 344,
+    "global_step": 93054,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 345,
+    "global_step": 93354,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 346,
+    "global_step": 93654,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 347,
+    "global_step": 93954,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 348,
+    "global_step": 94222,
+    "length": 268,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 40
+  },
+  {
+    "episode": 349,
+    "global_step": 94522,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 350,
+    "global_step": 94822,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 351,
+    "global_step": 95122,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 352,
+    "global_step": 95422,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 353,
+    "global_step": 95722,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 354,
+    "global_step": 96022,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 71
+  },
+  {
+    "episode": 355,
+    "global_step": 96322,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 65
+  },
+  {
+    "episode": 356,
+    "global_step": 96533,
+    "length": 211,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 36
+  },
+  {
+    "episode": 357,
+    "global_step": 96833,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 358,
+    "global_step": 97133,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 359,
+    "global_step": 97161,
+    "length": 28,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 4
+  },
+  {
+    "episode": 360,
+    "global_step": 97461,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 361,
+    "global_step": 97638,
+    "length": 177,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 22
+  },
+  {
+    "episode": 362,
+    "global_step": 97938,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 40
+  },
+  {
+    "episode": 363,
+    "global_step": 98043,
+    "length": 105,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 18
+  },
+  {
+    "episode": 364,
+    "global_step": 98343,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 365,
+    "global_step": 98643,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 366,
+    "global_step": 98943,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 367,
+    "global_step": 99243,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 368,
+    "global_step": 99543,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 369,
+    "global_step": 99843,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 370,
+    "global_step": 100143,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 371,
+    "global_step": 100443,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 372,
+    "global_step": 100521,
+    "length": 78,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 16
+  },
+  {
+    "episode": 373,
+    "global_step": 100821,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 374,
+    "global_step": 101121,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 375,
+    "global_step": 101421,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 376,
+    "global_step": 101523,
+    "length": 102,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 15
+  },
+  {
+    "episode": 377,
+    "global_step": 101823,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 70
+  },
+  {
+    "episode": 378,
+    "global_step": 102123,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 379,
+    "global_step": 102383,
+    "length": 260,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 39
+  },
+  {
+    "episode": 380,
+    "global_step": 102683,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 381,
+    "global_step": 102983,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 382,
+    "global_step": 103283,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 42
+  },
+  {
+    "episode": 383,
+    "global_step": 103538,
+    "length": 255,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 36
+  },
+  {
+    "episode": 384,
+    "global_step": 103838,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 385,
+    "global_step": 104106,
+    "length": 268,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 47
+  },
+  {
+    "episode": 386,
+    "global_step": 104406,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 387,
+    "global_step": 104706,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 388,
+    "global_step": 105006,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 389,
+    "global_step": 105306,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 390,
+    "global_step": 105606,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 391,
+    "global_step": 105906,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 392,
+    "global_step": 106206,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 393,
+    "global_step": 106377,
+    "length": 171,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 21
+  },
+  {
+    "episode": 394,
+    "global_step": 106677,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 395,
+    "global_step": 106922,
+    "length": 245,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 40
+  },
+  {
+    "episode": 396,
+    "global_step": 107222,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 397,
+    "global_step": 107486,
+    "length": 264,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 52
+  },
+  {
+    "episode": 398,
+    "global_step": 107786,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 399,
+    "global_step": 108053,
+    "length": 267,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 38
+  },
+  {
+    "episode": 400,
+    "global_step": 108289,
+    "length": 236,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 42
+  },
+  {
+    "episode": 401,
+    "global_step": 108589,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 68
+  },
+  {
+    "episode": 402,
+    "global_step": 108889,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 403,
+    "global_step": 109189,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 404,
+    "global_step": 109489,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 405,
+    "global_step": 109789,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 406,
+    "global_step": 110089,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 407,
+    "global_step": 110389,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 408,
+    "global_step": 110689,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 409,
+    "global_step": 110917,
+    "length": 228,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 42
+  },
+  {
+    "episode": 410,
+    "global_step": 111217,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 411,
+    "global_step": 111517,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 412,
+    "global_step": 111817,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 413,
+    "global_step": 111904,
+    "length": 87,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 13
+  },
+  {
+    "episode": 414,
+    "global_step": 112204,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 415,
+    "global_step": 112504,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 416,
+    "global_step": 112710,
+    "length": 206,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 33
+  },
+  {
+    "episode": 417,
+    "global_step": 113010,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 418,
+    "global_step": 113084,
+    "length": 74,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 14
+  },
+  {
+    "episode": 419,
+    "global_step": 113312,
+    "length": 228,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 23
+  },
+  {
+    "episode": 420,
+    "global_step": 113377,
+    "length": 65,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 5
+  },
+  {
+    "episode": 421,
+    "global_step": 113550,
+    "length": 173,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 29
+  },
+  {
+    "episode": 422,
+    "global_step": 113850,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 423,
+    "global_step": 114150,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 424,
+    "global_step": 114450,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 425,
+    "global_step": 114750,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 426,
+    "global_step": 115050,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 64
+  },
+  {
+    "episode": 427,
+    "global_step": 115350,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 428,
+    "global_step": 115650,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 429,
+    "global_step": 115697,
+    "length": 47,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 5
+  },
+  {
+    "episode": 430,
+    "global_step": 115997,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 431,
+    "global_step": 116297,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 432,
+    "global_step": 116597,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 433,
+    "global_step": 116897,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 434,
+    "global_step": 117197,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 435,
+    "global_step": 117497,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 42
+  },
+  {
+    "episode": 436,
+    "global_step": 117608,
+    "length": 111,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 21
+  },
+  {
+    "episode": 437,
+    "global_step": 117874,
+    "length": 266,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 34
+  },
+  {
+    "episode": 438,
+    "global_step": 118174,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 439,
+    "global_step": 118474,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 41
+  },
+  {
+    "episode": 440,
+    "global_step": 118758,
+    "length": 284,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 44
+  },
+  {
+    "episode": 441,
+    "global_step": 118907,
+    "length": 149,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 28
+  },
+  {
+    "episode": 442,
+    "global_step": 119207,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 443,
+    "global_step": 119507,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 444,
+    "global_step": 119807,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 22
+  },
+  {
+    "episode": 445,
+    "global_step": 120107,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 43
+  },
+  {
+    "episode": 446,
+    "global_step": 120407,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 447,
+    "global_step": 120707,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 39
+  },
+  {
+    "episode": 448,
+    "global_step": 121007,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 59
+  },
+  {
+    "episode": 449,
+    "global_step": 121307,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 450,
+    "global_step": 121607,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 451,
+    "global_step": 121879,
+    "length": 272,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 41
+  },
+  {
+    "episode": 452,
+    "global_step": 122124,
+    "length": 245,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 48
+  },
+  {
+    "episode": 453,
+    "global_step": 122310,
+    "length": 186,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 32
+  },
+  {
+    "episode": 454,
+    "global_step": 122610,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 455,
+    "global_step": 122910,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 456,
+    "global_step": 123210,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 457,
+    "global_step": 123510,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 458,
+    "global_step": 123810,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 459,
+    "global_step": 123993,
+    "length": 183,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 29
+  },
+  {
+    "episode": 460,
+    "global_step": 124293,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 40
+  },
+  {
+    "episode": 461,
+    "global_step": 124593,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 36
+  },
+  {
+    "episode": 462,
+    "global_step": 124625,
+    "length": 32,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 5
+  },
+  {
+    "episode": 463,
+    "global_step": 124925,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 35
+  },
+  {
+    "episode": 464,
+    "global_step": 125225,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 465,
+    "global_step": 125385,
+    "length": 160,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 25
+  },
+  {
+    "episode": 466,
+    "global_step": 125410,
+    "length": 25,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 2
+  },
+  {
+    "episode": 467,
+    "global_step": 125602,
+    "length": 192,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 24
+  },
+  {
+    "episode": 468,
+    "global_step": 125902,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 469,
+    "global_step": 126202,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 470,
+    "global_step": 126311,
+    "length": 109,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 17
+  },
+  {
+    "episode": 471,
+    "global_step": 126611,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 39
+  },
+  {
+    "episode": 472,
+    "global_step": 126777,
+    "length": 166,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 15
+  },
+  {
+    "episode": 473,
+    "global_step": 126835,
+    "length": 58,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 8
+  },
+  {
+    "episode": 474,
+    "global_step": 127135,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 475,
+    "global_step": 127388,
+    "length": 253,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 45
+  },
+  {
+    "episode": 476,
+    "global_step": 127516,
+    "length": 128,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 24
+  },
+  {
+    "episode": 477,
+    "global_step": 127816,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 478,
+    "global_step": 128116,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 479,
+    "global_step": 128205,
+    "length": 89,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 12
+  },
+  {
+    "episode": 480,
+    "global_step": 128505,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 481,
+    "global_step": 128797,
+    "length": 292,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 65
+  },
+  {
+    "episode": 482,
+    "global_step": 129097,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 483,
+    "global_step": 129397,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 484,
+    "global_step": 129494,
+    "length": 97,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 15
+  },
+  {
+    "episode": 485,
+    "global_step": 129599,
+    "length": 105,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 15
+  },
+  {
+    "episode": 486,
+    "global_step": 129675,
+    "length": 76,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 12
+  },
+  {
+    "episode": 487,
+    "global_step": 129975,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 488,
+    "global_step": 130163,
+    "length": 188,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 30
+  },
+  {
+    "episode": 489,
+    "global_step": 130463,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 45
+  },
+  {
+    "episode": 490,
+    "global_step": 130763,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 491,
+    "global_step": 131063,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 492,
+    "global_step": 131363,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 66
+  },
+  {
+    "episode": 493,
+    "global_step": 131424,
+    "length": 61,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 5
+  },
+  {
+    "episode": 494,
+    "global_step": 131724,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 495,
+    "global_step": 132024,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 496,
+    "global_step": 132041,
+    "length": 17,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 0
+  },
+  {
+    "episode": 497,
+    "global_step": 132341,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 498,
+    "global_step": 132588,
+    "length": 247,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 39
+  },
+  {
+    "episode": 499,
+    "global_step": 132888,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 500,
+    "global_step": 133188,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 501,
+    "global_step": 133488,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 502,
+    "global_step": 133788,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 503,
+    "global_step": 133888,
+    "length": 100,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 17
+  },
+  {
+    "episode": 504,
+    "global_step": 134188,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 505,
+    "global_step": 134488,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 506,
+    "global_step": 134788,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 507,
+    "global_step": 135088,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 47
+  },
+  {
+    "episode": 508,
+    "global_step": 135388,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 53
+  },
+  {
+    "episode": 509,
+    "global_step": 135688,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 68
+  },
+  {
+    "episode": 510,
+    "global_step": 135988,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 511,
+    "global_step": 136288,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 60
+  },
+  {
+    "episode": 512,
+    "global_step": 136588,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 513,
+    "global_step": 136888,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 514,
+    "global_step": 137188,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 58
+  },
+  {
+    "episode": 515,
+    "global_step": 137488,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 41
+  },
+  {
+    "episode": 516,
+    "global_step": 137788,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 517,
+    "global_step": 138088,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 55
+  },
+  {
+    "episode": 518,
+    "global_step": 138388,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 519,
+    "global_step": 138688,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 520,
+    "global_step": 138964,
+    "length": 276,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 48
+  },
+  {
+    "episode": 521,
+    "global_step": 139179,
+    "length": 215,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 41
+  },
+  {
+    "episode": 522,
+    "global_step": 139479,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 523,
+    "global_step": 139630,
+    "length": 151,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 23
+  },
+  {
+    "episode": 524,
+    "global_step": 139930,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 34
+  },
+  {
+    "episode": 525,
+    "global_step": 140230,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 65
+  },
+  {
+    "episode": 526,
+    "global_step": 140418,
+    "length": 188,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 24
+  },
+  {
+    "episode": 527,
+    "global_step": 140718,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 62
+  },
+  {
+    "episode": 528,
+    "global_step": 141018,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 529,
+    "global_step": 141318,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 530,
+    "global_step": 141618,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 531,
+    "global_step": 141900,
+    "length": 282,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 56
+  },
+  {
+    "episode": 532,
+    "global_step": 142200,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 49
+  },
+  {
+    "episode": 533,
+    "global_step": 142500,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 52
+  },
+  {
+    "episode": 534,
+    "global_step": 142800,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 9
+  },
+  {
+    "episode": 535,
+    "global_step": 143100,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 51
+  },
+  {
+    "episode": 536,
+    "global_step": 143127,
+    "length": 27,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 4
+  },
+  {
+    "episode": 537,
+    "global_step": 143427,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 57
+  },
+  {
+    "episode": 538,
+    "global_step": 143727,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 43
+  },
+  {
+    "episode": 539,
+    "global_step": 144027,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 540,
+    "global_step": 144077,
+    "length": 50,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 2
+  },
+  {
+    "episode": 541,
+    "global_step": 144377,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 40
+  },
+  {
+    "episode": 542,
+    "global_step": 144483,
+    "length": 106,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 13
+  },
+  {
+    "episode": 543,
+    "global_step": 144631,
+    "length": 148,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 19
+  },
+  {
+    "episode": 544,
+    "global_step": 144866,
+    "length": 235,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 50
+  },
+  {
+    "episode": 545,
+    "global_step": 145135,
+    "length": 269,
+    "return_ext": 1.0,
+    "solved": true,
+    "overloads": 55
+  },
+  {
+    "episode": 546,
+    "global_step": 145435,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 39
+  },
+  {
+    "episode": 547,
+    "global_step": 145735,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 63
+  },
+  {
+    "episode": 548,
+    "global_step": 146035,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 68
+  },
+  {
+    "episode": 549,
+    "global_step": 146335,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 61
+  },
+  {
+    "episode": 550,
+    "global_step": 146635,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 54
+  },
+  {
+    "episode": 551,
+    "global_step": 146935,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 48
+  },
+  {
+    "episode": 552,
+    "global_step": 147235,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 56
+  },
+  {
+    "episode": 553,
+    "global_step": 147535,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 42
+  },
+  {
+    "episode": 554,
+    "global_step": 147835,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 46
+  },
+  {
+    "episode": 555,
+    "global_step": 148135,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 36
+  },
+  {
+    "episode": 556,
+    "global_step": 148435,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 37
+  },
+  {
+    "episode": 557,
+    "global_step": 148735,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 44
+  },
+  {
+    "episode": 558,
+    "global_step": 149035,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 50
+  },
+  {
+    "episode": 559,
+    "global_step": 149335,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 33
+  },
+  {
+    "episode": 560,
+    "global_step": 149635,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 26
+  },
+  {
+    "episode": 561,
+    "global_step": 149935,
+    "length": 300,
+    "return_ext": -0.5,
+    "solved": false,
+    "overloads": 27
+  }
+]

@@ -1,0 +1,7 @@
+{
+  "eval_success_rate": 0.35,
+  "eval_mean_steps_to_solve": 456.95238095238096,
+  "eval_mean_ep_len": 1134.9333333333334,
+  "eval_mean_overloads_per_ep": 227.85,
+  "eval_n_episodes": 60
+}

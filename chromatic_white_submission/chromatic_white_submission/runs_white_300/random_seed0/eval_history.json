@@ -1,0 +1,122 @@
+[
+  {
+    "eval_success_rate": 0.3333333333333333,
+    "eval_mean_steps_to_solve": 167.8,
+    "eval_mean_ep_len": 255.93333333333334,
+    "eval_mean_overloads_per_ep": 47.233333333333334,
+    "eval_n_episodes": 30,
+    "global_step": 10000
+  },
+  {
+    "eval_success_rate": 0.06666666666666667,
+    "eval_mean_steps_to_solve": 214.0,
+    "eval_mean_ep_len": 294.26666666666665,
+    "eval_mean_overloads_per_ep": 54.6,
+    "eval_n_episodes": 30,
+    "global_step": 20000
+  },
+  {
+    "eval_success_rate": 0.13333333333333333,
+    "eval_mean_steps_to_solve": 236.0,
+    "eval_mean_ep_len": 291.46666666666664,
+    "eval_mean_overloads_per_ep": 52.8,
+    "eval_n_episodes": 30,
+    "global_step": 30000
+  },
+  {
+    "eval_success_rate": 0.13333333333333333,
+    "eval_mean_steps_to_solve": 119.5,
+    "eval_mean_ep_len": 275.93333333333334,
+    "eval_mean_overloads_per_ep": 52.333333333333336,
+    "eval_n_episodes": 30,
+    "global_step": 40000
+  },
+  {
+    "eval_success_rate": 0.16666666666666666,
+    "eval_mean_steps_to_solve": 189.0,
+    "eval_mean_ep_len": 281.5,
+    "eval_mean_overloads_per_ep": 51.0,
+    "eval_n_episodes": 30,
+    "global_step": 50000
+  },
+  {
+    "eval_success_rate": 0.16666666666666666,
+    "eval_mean_steps_to_solve": 121.0,
+    "eval_mean_ep_len": 270.1666666666667,
+    "eval_mean_overloads_per_ep": 49.766666666666666,
+    "eval_n_episodes": 30,
+    "global_step": 60000
+  },
+  {
+    "eval_success_rate": 0.23333333333333334,
+    "eval_mean_steps_to_solve": 143.28571428571428,
+    "eval_mean_ep_len": 263.43333333333334,
+    "eval_mean_overloads_per_ep": 48.0,
+    "eval_n_episodes": 30,
+    "global_step": 70000
+  },
+  {
+    "eval_success_rate": 0.16666666666666666,
+    "eval_mean_steps_to_solve": 206.4,
+    "eval_mean_ep_len": 284.4,
+    "eval_mean_overloads_per_ep": 53.0,
+    "eval_n_episodes": 30,
+    "global_step": 80000
+  },
+  {
+    "eval_success_rate": 0.06666666666666667,
+    "eval_mean_steps_to_solve": 162.5,
+    "eval_mean_ep_len": 290.8333333333333,
+    "eval_mean_overloads_per_ep": 54.46666666666667,
+    "eval_n_episodes": 30,
+    "global_step": 90000
+  },
+  {
+    "eval_success_rate": 0.2,
+    "eval_mean_steps_to_solve": 185.16666666666666,
+    "eval_mean_ep_len": 277.03333333333336,
+    "eval_mean_overloads_per_ep": 50.0,
+    "eval_n_episodes": 30,
+    "global_step": 100000
+  },
+  {
+    "eval_success_rate": 0.2,
+    "eval_mean_steps_to_solve": 123.33333333333333,
+    "eval_mean_ep_len": 264.6666666666667,
+    "eval_mean_overloads_per_ep": 49.13333333333333,
+    "eval_n_episodes": 30,
+    "global_step": 110000
+  },
+  {
+    "eval_success_rate": 0.16666666666666666,
+    "eval_mean_steps_to_solve": 203.0,
+    "eval_mean_ep_len": 283.8333333333333,
+    "eval_mean_overloads_per_ep": 52.56666666666667,
+    "eval_n_episodes": 30,
+    "global_step": 120000
+  },
+  {
+    "eval_success_rate": 0.03333333333333333,
+    "eval_mean_steps_to_solve": 95.0,
+    "eval_mean_ep_len": 293.1666666666667,
+    "eval_mean_overloads_per_ep": 53.166666666666664,
+    "eval_n_episodes": 30,
+    "global_step": 130000
+  },
+  {
+    "eval_success_rate": 0.13333333333333333,
+    "eval_mean_steps_to_solve": 221.0,
+    "eval_mean_ep_len": 289.46666666666664,
+    "eval_mean_overloads_per_ep": 54.3,
+    "eval_n_episodes": 30,
+    "global_step": 140000
+  },
+  {
+    "eval_success_rate": 0.1,
+    "eval_mean_steps_to_solve": 140.0,
+    "eval_mean_ep_len": 284.0,
+    "eval_mean_overloads_per_ep": 52.1,
+    "eval_n_episodes": 30,
+    "global_step": 150000
+  }
+]

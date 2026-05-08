@@ -1,0 +1,4 @@
+{
+  "policy": "uniform_random",
+  "num_actions": 4
+}
