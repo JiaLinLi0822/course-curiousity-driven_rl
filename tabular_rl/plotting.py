@@ -14,7 +14,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 from color_mdp_constants import ACTION_LABELS, COLOR_STATE_LABELS
-from color_mdp_tables import alpha_context_labels
 
 
 MATPLOTLIB_STYLE = {
@@ -106,54 +105,6 @@ def plot_q_table_heatmap(
     fig.colorbar(im, ax=ax, fraction=0.035, pad=0.03, label="Q value")
     fig.tight_layout()
     fig.savefig(out_path, dpi=300)
-    plt.close(fig)
-
-
-def plot_dirichlet_diagnostics(
-    mean_w_table: np.ndarray,
-    mean_alpha_table: np.ndarray,
-    out_dir: Path,
-) -> None:
-    diag_dir = out_dir / "dirichlet_diagnostics"
-    diag_dir.mkdir(parents=True, exist_ok=True)
-
-    max_w = float(mean_w_table.max())
-    min_w = float(mean_w_table.min())
-    plot_q_table_heatmap(
-        mean_w_table,
-        "Curiosity-based Q-learning: w(s,a)",
-        diag_dir / "dirichlet_w_table.png",
-        vmin=min_w,
-        vmax=max_w if max_w != min_w else min_w + 1.0,
-    )
-
-    fig, ax = plt.subplots(figsize=(7.2, 7.8))
-    im = ax.imshow(mean_alpha_table, cmap="magma", aspect="auto")
-    ax.set_title("Curiosity-based Q-learning: Dirichlet alpha model")
-    ax.set_xlabel("Outcome color")
-    ax.set_ylabel("Transition context")
-    ax.set_xticks(range(len(COLOR_STATE_LABELS)))
-    ax.set_xticklabels(COLOR_STATE_LABELS, rotation=35, ha="right")
-    ax.set_yticks(range(len(alpha_context_labels())))
-    ax.set_yticklabels(alpha_context_labels(), fontsize=6)
-
-    for row in range(mean_alpha_table.shape[0]):
-        for col in range(mean_alpha_table.shape[1]):
-            value = mean_alpha_table[row, col]
-            if value >= mean_alpha_table.max() * 0.25:
-                ax.text(
-                    col,
-                    row,
-                    f"{value:.0f}",
-                    ha="center",
-                    va="center",
-                    fontsize=5.5,
-                    color="white",
-                )
-
-    fig.colorbar(im, ax=ax, fraction=0.035, pad=0.03, label="alpha")
-    fig.tight_layout()
-    fig.savefig(diag_dir / "dirichlet_alpha_model.png", dpi=300)
     plt.close(fig)
 
 

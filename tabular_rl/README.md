@@ -62,13 +62,7 @@ By default, results are written to `results/color_mdp/`:
 
 - `color_mdp_training_returns.png`
 - `color_mdp_q_tables.png`
-- `color_mdp_summary.csv`
-- `color_mdp_episode_returns.csv`
-- `color_mdp_q_tables.csv`
-- `color_mdp_mean_q_tables.csv`
-- `dirichlet_w_tables.csv`
-- `dirichlet_alpha_model.csv`
-- `dirichlet_diagnostics/`
+- `q_tables/*.png`
 
 ## Main Options
 
